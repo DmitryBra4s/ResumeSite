@@ -1,0 +1,53 @@
+.container {
+  border: 2px solid red;
+  position: absolute;
+  display: flex;
+}
+
+#secondTest {
+  position: absolute;
+}
+
+.line {
+  border: 3px solid blue;
+}
+
+.box {
+  width: 5vw;
+  height: 5vw;
+}
+
+.whiteFigures {
+  background-color: white;
+}
+
+#thirdTest {
+  margin-top: 40vh;
+}
+
+.row {
+  display: inline-block;
+}
+
+.cell_sudoku {
+  
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputSudoku {
+  width: 20px;
+  height: 22px;
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+}
+
+.button {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+}
